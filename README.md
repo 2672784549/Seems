@@ -1,2 +1,2 @@
 # Seems
-An Cross-platform mini system for scheduling software engineering exam
+An Cross-platform mini system for teachers to schedule software engineering tests.
